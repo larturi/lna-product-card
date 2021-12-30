@@ -36,6 +36,17 @@
   "name": "lna-product-card",
   "author": "Leandro Arturi",
   "module": "dist/lna-product-card.esm.js",
+  "repository": {
+    "url": "https://github.com/larturi/lna-product-card",
+    "type": "git"
+  },
+  "homepage": "https://leandroarturi.com.ar/",
+  "keywords": [
+    "react",
+    "product",
+    "card",
+    "Leandro Arturi"
+  ],
   "size-limit": [
     {
       "path": "dist/lna-product-card.cjs.production.min.js",
